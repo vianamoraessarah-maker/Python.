@@ -1,0 +1,37 @@
+# Triangle Classifier in Python.
+
+The program prompts the user to enter the three sides of a triangle, checks whether they can form a triangle using the triangle inequality, and then classifies the triangle as:
+
+* Equilateral.
+* Isosceles.
+* Scalene.
+
+If the entered values do not form a valid triangle, the program displays a message stating that the triangle cannot be constructed.
+
+## Concepts covered.
+
+* Data input (`input`).
+* Conditional structures (`if`, `elif`, and `else`).
+* Logical operators (`and`).
+* Comparing values.
+* Data validation.
+
+___
+
+# Classificador de Triângulos em Python.
+
+O programa solicita ao usuário os três lados de um triângulo, verifica se eles podem formar um triângulo utilizando a desigualdade triangular e, em seguida, classifica o triângulo como:
+
+* Equilátero.
+* Isósceles.
+* Escaleno.
+
+Caso os valores informados não formem um triângulo válido, o programa exibe uma mensagem informando que a construção do triângulo não é possível.
+
+## Conceitos praticados.
+
+* Entrada de dados (`input`).
+* Estruturas condicionais (`if`, `elif` e `else`).
+* Operadores lógicos (`and`).
+* Comparação entre valores.
+* Validação de dados.
